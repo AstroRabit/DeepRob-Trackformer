@@ -1,5 +1,3 @@
 # DeepRob-Trackformer
 
-<div align="center">
-    <img src="docs/luffy_trackformer.mp4" width="375"/>
-</div>
+<video src="docs/luffy_trackformer.mp4" controls title="Title"></video>
